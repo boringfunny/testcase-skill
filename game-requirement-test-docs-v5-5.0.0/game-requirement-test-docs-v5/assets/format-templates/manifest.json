@@ -1,0 +1,962 @@
+{
+  "purpose": "四份用户模板的只读快照；标题结构与样式参考，不是业务规则。",
+  "templates": [
+    {
+      "file": "养成-通用模板.xmind",
+      "path": "assets/format-templates/养成-通用模板.xmind",
+      "sha256": "5a3370c5f75d7620dd1674e5b675ad83bff2eaa824e104e3e765e1f3817ef3d1",
+      "structure": [
+        {
+          "title": "养成-通用模板",
+          "children": [
+            {
+              "title": "入口",
+              "children": [
+                {
+                  "title": "开启条件",
+                  "children": []
+                },
+                {
+                  "title": "入口",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "title": "红点",
+              "children": [
+                {
+                  "title": "亮起条件",
+                  "children": []
+                },
+                {
+                  "title": "消失条件",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "title": "主功能1",
+              "children": [
+                {
+                  "title": "次级模块",
+                  "children": [
+                    {
+                      "title": "功能点1",
+                      "children": [
+                        {
+                          "title": "测试点1",
+                          "children": []
+                        },
+                        {
+                          "title": "测试点2",
+                          "children": []
+                        }
+                      ]
+                    },
+                    {
+                      "title": "功能点2",
+                      "children": [
+                        {
+                          "title": "测试点1",
+                          "children": []
+                        },
+                        {
+                          "title": "测试点2",
+                          "children": []
+                        }
+                      ]
+                    },
+                    {
+                      "title": "功能点n",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "title": "次级模块",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "title": "主功能2",
+              "children": [
+                {
+                  "title": "次级模块1",
+                  "children": [
+                    {
+                      "title": "功能点1",
+                      "children": [
+                        {
+                          "title": "测试点1",
+                          "children": []
+                        },
+                        {
+                          "title": "测试点2",
+                          "children": []
+                        }
+                      ]
+                    },
+                    {
+                      "title": "功能点2",
+                      "children": []
+                    },
+                    {
+                      "title": "功能点n",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "title": "次级模块2",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "title": "主功能3",
+              "children": []
+            },
+            {
+              "title": "特殊点验证",
+              "children": [
+                {
+                  "title": "关联系统回测",
+                  "children": [
+                    {
+                      "title": "活动",
+                      "children": []
+                    },
+                    {
+                      "title": "战令",
+                      "children": []
+                    },
+                    {
+                      "title": "任务",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "title": "属性生效性",
+                  "children": [
+                    {
+                      "title": "操作后属性变化实时生效",
+                      "children": []
+                    },
+                    {
+                      "title": "战斗内生效性",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "title": "其他特殊情况",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "title": "异常状态",
+              "children": [
+                {
+                  "title": "弱网",
+                  "children": [
+                    {
+                      "title": "重复请求，只会应答限制次数内，不会多领多买",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "title": "断线重连",
+                  "children": [
+                    {
+                      "title": "角色数据保留，无异常",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "title": "关服后重开服",
+                  "children": [
+                    {
+                      "title": "角色数据保留，无异常",
+                      "children": []
+                    },
+                    {
+                      "title": "活动状态延续无异常",
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "配置检查",
+              "children": [
+                {
+                  "title": "正式配置",
+                  "children": [
+                    {
+                      "title": "正式数值检查",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "title": "重要字段检查",
+                  "children": [
+                    {
+                      "title": "字段控制生效",
+                      "children": []
+                    },
+                    {
+                      "title": "字段边界验证",
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "ui检查",
+              "children": [
+                {
+                  "title": "主界面2",
+                  "children": [
+                    {
+                      "title": "子界面",
+                      "children": []
+                    },
+                    {
+                      "title": "子界面",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "title": "主界面1",
+                  "children": [
+                    {
+                      "title": "子界面",
+                      "children": []
+                    },
+                    {
+                      "title": "子界面",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "title": "分辨率适配",
+                  "children": [
+                    {
+                      "title": "720*1280",
+                      "children": []
+                    },
+                    {
+                      "title": "720*1560",
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "file": "活动通用模板.xmind",
+      "path": "assets/format-templates/活动通用模板.xmind",
+      "sha256": "b6ae02ca5d19db2fcf36934d30ad5b94fdd43a8424fea5cbfa20c10f53668883",
+      "structure": [
+        {
+          "title": "活动-通用模板",
+          "children": [
+            {
+              "title": "入口",
+              "children": [
+                {
+                  "title": "开启条件",
+                  "children": []
+                },
+                {
+                  "title": "入口",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "title": "红点",
+              "children": [
+                {
+                  "title": "亮起条件",
+                  "children": []
+                },
+                {
+                  "title": "消失条件",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "title": "主功能1",
+              "children": [
+                {
+                  "title": "次级模块",
+                  "children": [
+                    {
+                      "title": "功能点1",
+                      "children": [
+                        {
+                          "title": "测试点1",
+                          "children": []
+                        },
+                        {
+                          "title": "测试点2",
+                          "children": []
+                        }
+                      ]
+                    },
+                    {
+                      "title": "功能点2",
+                      "children": [
+                        {
+                          "title": "测试点1",
+                          "children": []
+                        },
+                        {
+                          "title": "测试点2",
+                          "children": []
+                        }
+                      ]
+                    },
+                    {
+                      "title": "功能点n",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "title": "次级模块",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "title": "主功能2",
+              "children": [
+                {
+                  "title": "次级模块1",
+                  "children": [
+                    {
+                      "title": "功能点1",
+                      "children": [
+                        {
+                          "title": "测试点1",
+                          "children": []
+                        },
+                        {
+                          "title": "测试点2",
+                          "children": []
+                        }
+                      ]
+                    },
+                    {
+                      "title": "功能点2",
+                      "children": []
+                    },
+                    {
+                      "title": "功能点n",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "title": "次级模块2",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "title": "主功能3",
+              "children": []
+            },
+            {
+              "title": "特殊点验证",
+              "children": [
+                {
+                  "title": "关联系统回测",
+                  "children": [
+                    {
+                      "title": "关联情况1",
+                      "children": []
+                    },
+                    {
+                      "title": "关联情况2",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "title": "跨点情况",
+                  "children": [
+                    {
+                      "title": "在线",
+                      "children": [
+                        {
+                          "title": "跨0点开启",
+                          "children": [
+                            {
+                              "title": "实时开启",
+                              "children": []
+                            }
+                          ]
+                        },
+                        {
+                          "title": "跨0点结束",
+                          "children": [
+                            {
+                              "title": "实时结束",
+                              "children": []
+                            },
+                            {
+                              "title": "邮件补发未领取奖励，若有",
+                              "children": []
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "title": "离线",
+                      "children": [
+                        {
+                          "title": "跨0点",
+                          "children": [
+                            {
+                              "title": "登录后实时开启",
+                              "children": []
+                            }
+                          ]
+                        },
+                        {
+                          "title": "跨0点",
+                          "children": [
+                            {
+                              "title": "登录后结束",
+                              "children": []
+                            },
+                            {
+                              "title": "邮件补发未领取奖励，若有",
+                              "children": []
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "title": "其他特殊情况",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "title": "异常状态",
+              "children": [
+                {
+                  "title": "弱网",
+                  "children": [
+                    {
+                      "title": "重复请求，只会应答限制次数内，不会多领多买",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "title": "断线重连",
+                  "children": [
+                    {
+                      "title": "角色数据保留，无异常",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "title": "关服后重开服",
+                  "children": [
+                    {
+                      "title": "角色数据保留，无异常",
+                      "children": []
+                    },
+                    {
+                      "title": "活动状态延续无异常",
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "配置检查",
+              "children": [
+                {
+                  "title": "正式配置",
+                  "children": [
+                    {
+                      "title": "正式数值检查",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "title": "重要字段检查",
+                  "children": [
+                    {
+                      "title": "字段控制生效",
+                      "children": []
+                    },
+                    {
+                      "title": "字段边界验证",
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "ui检查",
+              "children": [
+                {
+                  "title": "主界面2",
+                  "children": [
+                    {
+                      "title": "子界面",
+                      "children": []
+                    },
+                    {
+                      "title": "子界面",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "title": "主界面1",
+                  "children": [
+                    {
+                      "title": "子界面",
+                      "children": []
+                    },
+                    {
+                      "title": "子界面",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "title": "分辨率适配",
+                  "children": [
+                    {
+                      "title": "720*1280",
+                      "children": []
+                    },
+                    {
+                      "title": "720*1560",
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "file": "玩法通用模板.xmind",
+      "path": "assets/format-templates/玩法通用模板.xmind",
+      "sha256": "213b4546351dd000f5f235d08317533882b036c34e062d441a3504d15d9cfc5c",
+      "structure": [
+        {
+          "title": "活动-通用模板",
+          "children": [
+            {
+              "title": "入口",
+              "children": [
+                {
+                  "title": "开启条件",
+                  "children": []
+                },
+                {
+                  "title": "入口",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "title": "红点",
+              "children": [
+                {
+                  "title": "亮起条件",
+                  "children": []
+                },
+                {
+                  "title": "消失条件",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "title": "主功能1",
+              "children": [
+                {
+                  "title": "次级模块",
+                  "children": [
+                    {
+                      "title": "功能点1",
+                      "children": [
+                        {
+                          "title": "测试点1",
+                          "children": []
+                        },
+                        {
+                          "title": "测试点2",
+                          "children": []
+                        }
+                      ]
+                    },
+                    {
+                      "title": "功能点2",
+                      "children": [
+                        {
+                          "title": "测试点1",
+                          "children": []
+                        },
+                        {
+                          "title": "测试点2",
+                          "children": []
+                        }
+                      ]
+                    },
+                    {
+                      "title": "功能点n",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "title": "次级模块",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "title": "主功能2",
+              "children": [
+                {
+                  "title": "次级模块1",
+                  "children": [
+                    {
+                      "title": "功能点1",
+                      "children": [
+                        {
+                          "title": "测试点1",
+                          "children": []
+                        },
+                        {
+                          "title": "测试点2",
+                          "children": []
+                        }
+                      ]
+                    },
+                    {
+                      "title": "功能点2",
+                      "children": []
+                    },
+                    {
+                      "title": "功能点n",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "title": "次级模块2",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "title": "主功能3",
+              "children": []
+            },
+            {
+              "title": "特殊点验证",
+              "children": [
+                {
+                  "title": "关联系统回测",
+                  "children": [
+                    {
+                      "title": "关联情况1",
+                      "children": []
+                    },
+                    {
+                      "title": "关联情况2",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "title": "跨点情况",
+                  "children": [
+                    {
+                      "title": "在线",
+                      "children": [
+                        {
+                          "title": "跨0点开启",
+                          "children": [
+                            {
+                              "title": "实时开启",
+                              "children": []
+                            }
+                          ]
+                        },
+                        {
+                          "title": "跨0点结束",
+                          "children": [
+                            {
+                              "title": "实时结束",
+                              "children": []
+                            },
+                            {
+                              "title": "邮件补发未领取奖励，若有",
+                              "children": []
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "title": "离线",
+                      "children": [
+                        {
+                          "title": "跨0点",
+                          "children": [
+                            {
+                              "title": "登录后实时开启",
+                              "children": []
+                            }
+                          ]
+                        },
+                        {
+                          "title": "跨0点",
+                          "children": [
+                            {
+                              "title": "登录后结束",
+                              "children": []
+                            },
+                            {
+                              "title": "邮件补发未领取奖励，若有",
+                              "children": []
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "title": "其他特殊情况",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "title": "异常状态",
+              "children": [
+                {
+                  "title": "弱网",
+                  "children": [
+                    {
+                      "title": "重复请求，只会应答限制次数内，不会多领多买",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "title": "断线重连",
+                  "children": [
+                    {
+                      "title": "角色数据保留，无异常",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "title": "关服后重开服",
+                  "children": [
+                    {
+                      "title": "角色数据保留，无异常",
+                      "children": []
+                    },
+                    {
+                      "title": "活动状态延续无异常",
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "配置检查",
+              "children": [
+                {
+                  "title": "正式配置",
+                  "children": [
+                    {
+                      "title": "正式数值检查",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "title": "重要字段检查",
+                  "children": [
+                    {
+                      "title": "字段控制生效",
+                      "children": []
+                    },
+                    {
+                      "title": "字段边界验证",
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "ui检查",
+              "children": [
+                {
+                  "title": "主界面2",
+                  "children": [
+                    {
+                      "title": "子界面",
+                      "children": []
+                    },
+                    {
+                      "title": "子界面",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "title": "主界面1",
+                  "children": [
+                    {
+                      "title": "子界面",
+                      "children": []
+                    },
+                    {
+                      "title": "子界面",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "title": "分辨率适配",
+                  "children": [
+                    {
+                      "title": "720*1280",
+                      "children": []
+                    },
+                    {
+                      "title": "720*1560",
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "file": "英雄通用模板xmind.xmind",
+      "path": "assets/format-templates/英雄通用模板xmind.xmind",
+      "sha256": "72b69fb59f5c01fab5fb17789f007810234ba6c76e69e96ffa120ce69f929df3",
+      "structure": [
+        {
+          "title": "中心主题",
+          "children": [
+            {
+              "title": "分支主题 1",
+              "children": [
+                {
+                  "title": "细分主题 1",
+                  "children": [
+                    {
+                      "title": "细分主题 1",
+                      "children": [
+                        {
+                          "title": "细分主题 1",
+                          "children": []
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "分支主题 2",
+              "children": [
+                {
+                  "title": "细分主题 1",
+                  "children": [
+                    {
+                      "title": "细分主题 1",
+                      "children": [
+                        {
+                          "title": "细分主题 1",
+                          "children": []
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "分支主题 3",
+              "children": [
+                {
+                  "title": "细分主题 1",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "title": "分支主题 4",
+              "children": [
+                {
+                  "title": "细分主题 1",
+                  "children": []
+                },
+                {
+                  "title": "细分主题 2",
+                  "children": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

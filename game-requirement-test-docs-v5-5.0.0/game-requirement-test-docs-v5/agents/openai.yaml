@@ -1,0 +1,4 @@
+interface:
+  display_name: "游戏模板测试设计与交接 V5"
+  short_description: "依据通用测试思路规划服务端配置与逻辑检查，附客户端简查，按通用模板组织导图和AI检查表"
+  default_prompt: "使用 $game-requirement-test-docs-v5，根据我选择的需求与测试思路文件，设计以服务端配置和代码逻辑核对为主、附客户端简查的用例，按适用模板分类生成XMind并同步Excel排序，把待确认问题写清楚，不执行验收。"
